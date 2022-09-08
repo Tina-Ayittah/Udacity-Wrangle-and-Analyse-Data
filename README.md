@@ -89,4 +89,4 @@ dog_stage.
 'rating_denominator', 'name', 'stage', 'retweet_count', 'favorite_count', 'jpg_url', 'img_num', 
 'p1', 'p1_conf', 'p1_dog', 'p2', 'p2_conf', 'p2_dog', 'p3', 'p3_conf', 'p3_dog'
 #### Visualizations
-Visual can be found in .ipynb and the act report
+Visuals can be found in the .ipynb or .html file and  act report.
